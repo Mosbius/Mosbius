@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://img.shields.io/badge/Lives-India-blue" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi%20%26%20Tamil%20%26%20Telugu-brightgreen" />
 </p>
 
 
