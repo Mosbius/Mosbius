@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <hr>
     
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack!*** 
-
+!
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 ### :link: &nbsp;Connect with me
     
 <p align="center">
-<a target="blank" href="https://github.com/Achyut21"><img src="https://img.shields.io/badge/-AchyutKatiyar.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a target="blank" href="https://www.linkedin.com/in/achyutkatiyar2103/"><img src="https://img.shields.io/badge/-Achyut%20Katiyar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a target="blank" href="mailto:achyutkatiyar21@gmail.com"><img src="https://img.shields.io/badge/-achyutkatiyar21@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a target="blank" href="https://github.com/Mosbius"><img src="https://img.shields.io/badge/-Mosbius.github-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a target="blank" href="https://www.linkedin.com/in/kaushik-aadhithya-chiratanagandla-b71221219"><img src="https://img.shields.io/badge/-Kaushik%20Aadhithya%20Chr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a target="blank" href="mailto:ckaushikaadhithya@gmail.com"><img src="https://img.shields.io/badge/-achyutkatiyar21@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
