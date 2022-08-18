@@ -96,5 +96,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a target="blank" href="https://github.com/Mosbius"><img src="https://img.shields.io/badge/-Mosbius.github-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a target="blank" href="https://www.linkedin.com/in/kaushik-aadhithya-chiratanagandla-b71221219"><img src="https://img.shields.io/badge/-Kaushik%20Aadhithya%20Chr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a target="blank" href="mailto:ckaushikaadhithya@gmail.com"><img src="https://img.shields.io/badge/-achyutkatiyar21@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a target="blank" href="mailto:ckaushikaadhithya@gmail.com"><img src="https://img.shields.io/badge/-ckaushikaadhithya@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
