@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 <hr>
     
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achyut21&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosbius&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achyut21&themes=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mosbius&themes=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
   
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Achyut21&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mosbius&theme=chartreuse-dark"></p>
   
 
     
